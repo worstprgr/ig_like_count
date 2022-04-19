@@ -39,7 +39,7 @@ import sys
 # login page
 url_login = 'https://www.instagram.com/accounts/login/'
 # main target
-url_scrape = 'https://www.instagram.com/p/Cbx48u1tZvW/'
+url_scrape = 'https://www.instagram.com/p/xxxxxIDxxxxx/'
 
 # # Chrome Options
 # chromeOptions = Options()
